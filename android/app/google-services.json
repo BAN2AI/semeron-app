@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35246160394",
+    "project_id": "semeron-36f39",
+    "storage_bucket": "semeron-36f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35246160394:android:ae554d050f0b91ada27df3",
+        "android_client_info": {
+          "package_name": "com.semeron.wonderfull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35246160394-d2nr9hir5snup1b2auq2mmka7sa21697.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semeron.wonderfull",
+            "certificate_hash": "2576cff2d63349bd7834c0724cc1548857d182df"
+          }
+        },
+        {
+          "client_id": "35246160394-ss7mccujg5g94fn7jihda9b8c1jemqtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrA2fct-BCphx-kx2Ph9x6h_yn4VDkI4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35246160394-ss7mccujg5g94fn7jihda9b8c1jemqtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
